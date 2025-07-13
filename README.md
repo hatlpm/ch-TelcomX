@@ -41,7 +41,10 @@ Telecom X es una empresa de telecomunicaciones que enfrenta una alta tasa de can
   Visualiza la relación entre tenure, cargos mensuales y cargos totales.
 
 - 🧩 **Gráficos de distribución:**  
-  Muestran cómo varía el churn según tipo de contrato, método de pago y servicios adicionales.
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/hatlpm/ch-TelcomX/main/fig_dis_num.png" alt="Distribución de variables numéricas" width="600"/>
+    <p><em>Figura: Distribución de variables numéricas relevantes para el churn</em></p>
+  </div>
 
 ## 🚀 ¿Cómo ejecutar el notebook?
 
