@@ -9,8 +9,6 @@ Telecom X es una empresa de telecomunicaciones que enfrenta una alta tasa de can
 - **1️⃣ Descripción del problema:** Contexto y motivación del análisis.
 - **2️⃣ Análisis exploratorio de los datos:** Caracterización del dataset, visualización y análisis de variables relevantes.
 - **3️⃣ Preprocesamiento:** Limpieza y transformación de datos.
-- **4️⃣ Modelado predictivo:** Construcción y evaluación de modelos de clasificación.
-- **5️⃣ Conclusiones y recomendaciones:** Principales hallazgos y sugerencias para la empresa.
 
 ## 💡 Principales Insights sobre el Churn
 
