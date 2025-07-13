@@ -38,12 +38,15 @@ Telecom X es una empresa de telecomunicaciones que enfrenta una alta tasa de can
 ## 📈 Ejemplos de Visualizaciones
 
 - 🔥 **Heatmap de correlación:**  
-  Visualiza la relación entre tenure, cargos mensuales y cargos totales.
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/hatlpm/ch-TelcomX/main/fig_dis_num.png" alt="Distribución de variables numéricas" width="600"/>
+    <p><em>Figura 1: Distribución de variables numéricas relevantes para el churn</em></p>
+  </div>
 
 - 🧩 **Gráficos de distribución:**  
   <div align="center">
     <img src="https://raw.githubusercontent.com/hatlpm/ch-TelcomX/main/fig_dis_num.png" alt="Distribución de variables numéricas" width="600"/>
-    <p><em>Figura: Distribución de variables numéricas relevantes para el churn</em></p>
+    <p><em>Figura 2: Distribución de variables numéricas relevantes para el churn</em></p>
   </div>
 
 ## 🚀 ¿Cómo ejecutar el notebook?
@@ -56,4 +59,4 @@ Telecom X es una empresa de telecomunicaciones que enfrenta una alta tasa de can
 
 ## 📬 Contacto
 
-¿Dudas o sugerencias? Escríbeme a [Tu Nombre o Correo].
+¿Dudas o sugerencias? Escríbeme a Harrison Tutalcha / hatpame@gmail.com.
